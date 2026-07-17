@@ -13,7 +13,7 @@
 
 > StageX is a web-based concert ticketing and event management system developed using the Joget Low-Code Development Platform.
 >
-> The system centralizes concert creation, approval workflows, booking management, and ticket handling into a single platform for Admins, Organizers, and Customers.
+> The system centralizes concert creation, approval workflows, booking management, and ticket handling into a single platform for Admins, Organizers, and Customers. 
 
 ## ✨ Key Features
 
